@@ -1,0 +1,10 @@
+# Concept
+Demon girl seduces people at night? Why? It's self protective. Trying to gain fame, so she can turn the public to the demon cause.
+Crowds with lots of 2D NPCs, such as at clubs or malls or whatever. Most NPCs are indifferent, but some are actively hostile to you because they can smell the brimstone or whatever. You're a nice demon girl though and just want to be loved, but it's hard in a society that actively wants to kill you. Most demons are misunderstood, they're considered evil by the population but they're simply unfortunate; for all intents and purposes they're pretty normal people. Think of it more as Tieflings from D&D and you get the idea. Everyone hates them because of their parents, but not the tieflings never did anything wrong.
+
+Action is simple; can only seduce in the dark. This plays out as dancing, or enticing someone to kiss you. Once you get the kiss, they're yours, and will act to protect you if there's actively hostile people in the play field still. Could have limited AoE seduce ability too, like a mass seduce dance that's on a cooldown or 1/level. This works to allow simplified "social" puzzles.
+
+# TODO
+* Get tile renderer working again in JavaScript/Chrome. Can use Tiled and the old orange tile set for this.
+* Get character sprite rendering working, switching sprites and playing sprites at a given framerate
+
